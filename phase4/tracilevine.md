@@ -1,3 +1,3 @@
- * I love the mud.
+ * I sold a hackathon project.
  * I babysat Mac Miller.
- * I have lived in 4 states.
+ * I love coding.
