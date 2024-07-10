@@ -1,3 +1,0 @@
-- I pick trash for fun
-- I swam with manatees
-- ~~I am a scuba divers~~
