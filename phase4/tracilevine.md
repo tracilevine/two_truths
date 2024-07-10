@@ -1,3 +1,3 @@
- * I sold a hackathon project.
- * I babysat Mac Miller.
- * I love coding.
+ * I sold a hackathon project!
+ * I babysat Mac Miller!
+ * I love coding! 
